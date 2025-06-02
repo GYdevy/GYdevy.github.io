@@ -1,4 +1,4 @@
-# Welcome! 👋
+# Welcome! 
 
 I’m GYdevy, a CS student from the Open University of Israel.
 
