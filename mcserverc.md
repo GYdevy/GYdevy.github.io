@@ -14,7 +14,7 @@ A lightweight Minecraft 1.15.2 server written in C, built entirely from scratch 
 Showcasing the login process, joining the game, chat functionality, player list handling, and multiplayer visibility (players seeing each other).
 
 <video width="640" height="360" controls>
-  <source src="/videos/mcservervid.mp4" type="video/mp4">
+  <source src="/videos/mcvideoc.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
