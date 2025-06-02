@@ -9,12 +9,10 @@ A lightweight Minecraft 1.15.2 server written in C, built entirely from scratch 
 - Explored protocol structures and real-time multiplayer event handling
 - Built a solid foundation for networking and protocol-based systems
 
-
 ## Video
 Showcasing the login process, joining the game, chat functionality, player list handling, and multiplayer visibility (players seeing each other).
 
 <video width="640" height="360" controls>
-  <source src="../videos/mcservervid.mp4" type="video/mp4">
+  <source src="videos/mcservervid.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
