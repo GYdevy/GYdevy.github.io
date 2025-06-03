@@ -1,0 +1,30 @@
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+
+  header, .page-header {
+    background-color: #1e1e1e;
+    border-bottom: 1px solid #444;
+  }
+
+  a {
+    color: #80cbc4;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+  }
+
+  .main-content code,
+  .main-content pre {
+    background-color: #2e2e2e;
+    color: #f8f8f2;
+  }
+
+  footer {
+    background-color: #1e1e1e;
+    color: #999;
+  }
+}
